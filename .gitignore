@@ -16,3 +16,7 @@ hs_err_pid*
 .classpath
 .settings/
 target/
+
+# mongoose-exe for dev testing
+mongoose.exe
+mongoose-*.exe
