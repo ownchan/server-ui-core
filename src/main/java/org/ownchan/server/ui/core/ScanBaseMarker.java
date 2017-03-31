@@ -18,8 +18,6 @@
  *******************************************************************************/
 package org.ownchan.server.ui.core;
 
-// This is just a marker class to be used with @SpringBootApplication
-// !!! DO NOT MOVE IT !!!
 public final class ScanBaseMarker {
 
   private ScanBaseMarker() {

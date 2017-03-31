@@ -42,7 +42,7 @@
           <archive>
             <manifest>
               <!-- this will make the .jar version retrievable by calling
-                org.ownchan.server.ui.core.ScanBaseMarker.class.getPackage().getImplementationVersion() -->
+                ScanBaseMarker.class.getPackage().getImplementationVersion() -->
               <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
             </manifest>
           </archive>
